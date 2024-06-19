@@ -1,0 +1,51 @@
+Source: libdbusmenu-lxqt
+Maintainer: Lubuntu Developers <lubuntu-devel@lists.ubuntu.com>
+Uploaders: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Section: libs
+Priority: optional
+Build-Depends: debhelper-compat (= 13),
+               cmake,
+               libxcb-cursor-dev,
+               qt6-base-dev
+Standards-Version: 4.7.0
+Vcs-Browser: https://git.lubuntu.me/Lubuntu/libdbusmenu-lxqt-packaging
+Vcs-Git: https://git.lubuntu.me/Lubuntu/libdbusmenu-lxqt-packaging.git
+Homepage: https://github.com/lxqt/libdbusmenu-lxqt
+Rules-Requires-Root: no
+
+Package: libdbusmenu-lxqt0
+Architecture: any
+Depends: ${misc:Depends},
+         ${shlibs:Depends}
+Pre-Depends: ${misc:Pre-Depends}
+Description: Qt implementation of the DBusMenu protocol
+ LXQt is an advanced, easy-to-use, and fast desktop environment based on Qt
+ technologies. It has been tailored for users who value simplicity, speed, and
+ an intuitive interface. Unlike most desktop environments, LXQt also works
+ fine with less powerful machines.
+ .
+ This library provides a Qt implementation of the DBusMenu protocol.
+ .
+ The DBusMenu protocol makes it possible for applications to export and import
+ their menus over DBus.
+ .
+ This package provides the libdbusmenu-lxqt2 shared library.
+
+Package: libdbusmenu-lxqt0-dev
+Architecture: any
+Section: libdevel
+Depends: libdbusmenu-lxqt0 (= ${binary:Version}),
+         qt6-base-dev,
+         ${misc:Depends}
+Description: Shared libraries for LXQt desktop environment (dev)
+ LXQt is an advanced, easy-to-use, and fast desktop environment based on Qt
+ technologies. It has been tailored for users who value simplicity, speed, and
+ an intuitive interface. Unlike most desktop environments, LXQt also works
+ fine with less powerful machines.
+ .
+ This library provides a Qt implementation of the DBusMenu protocol.
+ .
+ The DBusMenu protocol makes it possible for applications to export and import
+ their menus over DBus.
+ .
+ This package contain the development files.

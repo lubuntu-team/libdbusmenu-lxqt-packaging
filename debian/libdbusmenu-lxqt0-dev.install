@@ -1,0 +1,4 @@
+usr/include/dbusmenu-lxqt/
+usr/lib/*/libdbusmenu-lxqt.so
+usr/lib/*/pkgconfig/dbusmenu-lxqt.pc
+usr/lib/*/cmake/dbusmenu-lxqt/dbusmenu-lxqt-*.cmake
