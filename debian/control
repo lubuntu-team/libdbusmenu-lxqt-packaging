@@ -17,8 +17,7 @@ Rules-Requires-Root: no
 
 Package: libdbusmenu-lxqt0
 Architecture: any
-Depends: ${misc:Depends},
-         ${shlibs:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Pre-Depends: ${misc:Pre-Depends}
 Description: Qt implementation of the DBusMenu protocol
  LXQt is an advanced, easy-to-use, and fast desktop environment based on Qt
@@ -36,9 +35,7 @@ Description: Qt implementation of the DBusMenu protocol
 Package: libdbusmenu-lxqt0-dev
 Architecture: any
 Section: libdevel
-Depends: libdbusmenu-lxqt0 (= ${binary:Version}),
-         qt6-base-dev,
-         ${misc:Depends}
+Depends: libdbusmenu-lxqt0 (= ${binary:Version}), qt6-base-dev, ${misc:Depends}
 Description: Shared libraries for LXQt desktop environment (dev)
  LXQt is an advanced, easy-to-use, and fast desktop environment based on Qt
  technologies. It has been tailored for users who value simplicity, speed, and
