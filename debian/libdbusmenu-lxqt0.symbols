@@ -1,5 +1,6 @@
 # SymbolsHelper-Confirmed: 0.2.0 amd64
-libdbusmenu-lxqt.so.0 libdbusmenu-lxqt #MINVER#
+libdbusmenu-lxqt.so.0 libdbusmenu-lxqt0 #MINVER#
+* Build-Depends-Package: libdbusmenu-lxqt0-dev
  _ZGVZN9QMetaType21registerConverterImplI5QListI12DBusMenuItemE9QIterableI13QMetaSequenceEEEbSt8functionIFbPKvPvEES_S_E10unregister@Base 0.1.0
  _ZGVZN9QMetaType21registerConverterImplI5QListI16DBusMenuItemKeysE9QIterableI13QMetaSequenceEEEbSt8functionIFbPKvPvEES_S_E10unregister@Base 0.1.0
  _ZGVZN9QMetaType21registerConverterImplI5QListI18DBusMenuLayoutItemE9QIterableI13QMetaSequenceEEEbSt8functionIFbPKvPvEES_S_E10unregister@Base 0.1.0
