@@ -3,9 +3,11 @@ Maintainer: Lubuntu Developers <lubuntu-devel@lists.ubuntu.com>
 Uploaders: Aaron Rainbolt <arraybolt3@ubuntu.com>
 Section: libs
 Priority: optional
-Build-Depends: debhelper-compat (= 13),
-               cmake,
+Build-Depends: cmake (>= 3.18.0),
+               debhelper-compat (= 13),
                libxcb-cursor-dev,
+               libxkbcommon-dev (>= 0.5.0),
+               pkgconf,
                qt6-base-dev
 Standards-Version: 4.7.0
 Vcs-Browser: https://git.lubuntu.me/Lubuntu/libdbusmenu-lxqt-packaging
