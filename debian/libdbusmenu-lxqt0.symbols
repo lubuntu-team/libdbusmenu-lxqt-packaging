@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 0.2.0 amd64
+# SymbolsHelper-Confirmed: 0.2.0 amd64 arm64 armhf ppc64el riscv64 s390x
 libdbusmenu-lxqt.so.0 libdbusmenu-lxqt0 #MINVER#
 * Build-Depends-Package: libdbusmenu-lxqt0-dev
  _ZGVZN9QMetaType21registerConverterImplI5QListI12DBusMenuItemE9QIterableI13QMetaSequenceEEEbSt8functionIFbPKvPvEES_S_E10unregister@Base 0.1.0
@@ -57,7 +57,10 @@ libdbusmenu-lxqt.so.0 libdbusmenu-lxqt0 #MINVER#
  _ZNK16DBusMenuImporter10metaObjectEv@Base 0.1.0
  _ZNK16DBusMenuImporter4menuEv@Base 0.1.0
  _ZNK16DBusMenuShortcut13toKeySequenceEv@Base 0.1.0
- _ZSt19piecewise_construct@Base 0.1.0
+ (optional=templinst|arch=!amd64)_ZNKSt8_Rb_treeI7QStringSt4pairIKS0_8QVariantESt10_Select1stIS4_ESt4lessIS0_ESaIS4_EE4findERS2_@Base 0.2.0
+ (optional=templinst|arch=!amd64)_ZNSt8_Rb_treeI7QStringSt4pairIKS0_8QVariantESt10_Select1stIS4_ESt4lessIS0_ESaIS4_EE24_M_get_insert_unique_posERS2_@Base 0.2.0
+ (optional=templinst|arch=riscv64)_ZNSt8_Rb_treeI7QStringSt4pairIKS0_8QVariantESt10_Select1stIS4_ESt4lessIS0_ESaIS4_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS4_ERS2_@Base 0.2.0
+ (arch=amd64)_ZSt19piecewise_construct@Base 0.2.0
  _ZTI16DBusMenuExporter@Base 0.1.0
  _ZTI16DBusMenuImporter@Base 0.1.0
  _ZTIZN9QMetaType17registerConverterI5QListI12DBusMenuItemE9QIterableI13QMetaSequenceEN9QtPrivate33QSequentialIterableConvertFunctorIS3_EEEEbT1_EUlPKvPvE_@Base 0.1.0
