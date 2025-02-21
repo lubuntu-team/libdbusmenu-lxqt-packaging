@@ -9,7 +9,7 @@ Build-Depends: cmake (>= 3.18.0),
                libxkbcommon-dev (>= 0.5.0),
                pkgconf,
                qt6-base-dev
-Standards-Version: 4.7.0
+Standards-Version: 4.7.1
 Vcs-Browser: https://git.lubuntu.me/Lubuntu/libdbusmenu-lxqt-packaging
 Vcs-Git: https://git.lubuntu.me/Lubuntu/libdbusmenu-lxqt-packaging.git
 Homepage: https://github.com/lxqt/libdbusmenu-lxqt
