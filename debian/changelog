@@ -1,9 +1,9 @@
-libdbusmenu-lxqt (0.3.0-0ubuntu1) UNRELEASED; urgency=medium
+libdbusmenu-lxqt (0.3.0-0ubuntu1) questing; urgency=medium
 
   * New upstream release.
   * Bump Standards-Version to 4.7.2, no changes needed.
 
- -- Simon Quigley <tsimonq2@ubuntu.com>  Sat, 19 Apr 2025 00:32:26 -0500
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Sat, 19 Apr 2025 16:35:16 -0500
 
 libdbusmenu-lxqt (0.2.0-0ubuntu2) plucky; urgency=medium
 
