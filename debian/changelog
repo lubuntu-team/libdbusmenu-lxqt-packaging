@@ -2,8 +2,9 @@ libdbusmenu-lxqt (0.3.0-0ubuntu1) questing; urgency=medium
 
   * New upstream release.
   * Bump Standards-Version to 4.7.2, no changes needed.
+  * Update copyright file.
 
- -- Simon Quigley <tsimonq2@ubuntu.com>  Sat, 19 Apr 2025 16:35:16 -0500
+ -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Fri, 02 May 2025 18:29:51 -0500
 
 libdbusmenu-lxqt (0.2.0-0ubuntu2) plucky; urgency=medium
 
