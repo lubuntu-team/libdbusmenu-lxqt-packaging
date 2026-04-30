@@ -1,3 +1,9 @@
+libdbusmenu-lxqt (0.4.0-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+
+ -- Simon Quigley <tsimonq2@debian.org>  Thu, 30 Apr 2026 12:20:12 -0500
+
 libdbusmenu-lxqt (0.3.0-0ubuntu1) questing; urgency=medium
 
   * New upstream release.
