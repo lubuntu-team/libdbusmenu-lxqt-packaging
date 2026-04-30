@@ -1,4 +1,4 @@
-libdbusmenu-lxqt (0.4.0-0ubuntu1) UNRELEASED; urgency=medium
+libdbusmenu-lxqt (0.4.0-0ubuntu1) stonking; urgency=medium
 
   * New upstream release.
   * Update Standards-Version to 4.7.4, dropping Priority: optional.
@@ -6,7 +6,7 @@ libdbusmenu-lxqt (0.4.0-0ubuntu1) UNRELEASED; urgency=medium
   * Update the upstream signing key.
   * Update the copyright file.
 
- -- Simon Quigley <tsimonq2@debian.org>  Thu, 30 Apr 2026 12:20:12 -0500
+ -- Simon Quigley <tsimonq2@debian.org>  Thu, 30 Apr 2026 12:26:40 -0500
 
 libdbusmenu-lxqt (0.3.0-0ubuntu1) questing; urgency=medium
 
