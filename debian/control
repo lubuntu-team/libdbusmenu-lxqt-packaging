@@ -12,7 +12,6 @@ Standards-Version: 4.7.4
 Vcs-Browser: https://git.lubuntu.me/Lubuntu/libdbusmenu-lxqt-packaging
 Vcs-Git: https://git.lubuntu.me/Lubuntu/libdbusmenu-lxqt-packaging.git
 Homepage: https://github.com/lxqt/libdbusmenu-lxqt
-Rules-Requires-Root: no
 
 Package: libdbusmenu-lxqt0
 Architecture: any
