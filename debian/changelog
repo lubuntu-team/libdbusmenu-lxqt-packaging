@@ -1,12 +1,16 @@
 libdbusmenu-lxqt (0.4.0-0ubuntu1) stonking; urgency=medium
 
+  [ Simon Quigley ]
   * New upstream release.
   * Update Standards-Version to 4.7.4, dropping Priority: optional.
   * Drop Rules-Requires-Root field, it is now redundant.
   * Update the upstream signing key.
   * Update the copyright file.
 
- -- Simon Quigley <tsimonq2@debian.org>  Thu, 30 Apr 2026 12:26:40 -0500
+  [ Aaron Rainbolt ]
+  * Bump LXQt team copyright year.
+
+ -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Mon, 04 May 2026 00:15:13 -0400
 
 libdbusmenu-lxqt (0.3.0-0ubuntu1) questing; urgency=medium
 

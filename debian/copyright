@@ -3,7 +3,7 @@ Upstream-Name: libdbusmenu-lxqt
 Source: https://github.com/lxqt/libdbusmenu-lxqt
 
 Files: *
-Copyright: 2024-2025 LXQt team
+Copyright: 2024-2026 LXQt team
 License: LGPL-2.1+
 
 Files: debian/*
