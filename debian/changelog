@@ -10,7 +10,7 @@ libdbusmenu-lxqt (0.4.0-0ubuntu1) stonking; urgency=medium
   [ Aaron Rainbolt ]
   * Bump LXQt team copyright year.
 
- -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Mon, 04 May 2026 00:15:13 -0400
+ -- Simon Quigley <tsimonq2@debian.org>  Thu, 30 Apr 2026 12:26:40 -0500
 
 libdbusmenu-lxqt (0.3.0-0ubuntu1) questing; urgency=medium
 
