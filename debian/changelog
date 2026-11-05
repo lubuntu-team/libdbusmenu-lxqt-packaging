@@ -1,10 +1,10 @@
-libdbusmenu-lxqt (0.5.0-0ubuntu1) UNRELEASED; urgency=medium
+libdbusmenu-lxqt (0.5.0-0ubuntu1) tenacious; urgency=medium
 
   * New upstream release.
   * Update to debhelper-compat 14.
   * Add a build dependency on lxqt-build-tools.
 
- -- Simon Quigley <tsimonq2@debian.org>  Wed, 04 Nov 2026 20:21:54 -0600
+ -- Simon Quigley <tsimonq2@debian.org>  Wed, 04 Nov 2026 21:46:17 -0600
 
 libdbusmenu-lxqt (0.4.0-0ubuntu1) stonking; urgency=medium
 
